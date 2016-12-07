@@ -152,4 +152,4 @@ bottomLabel.numberOfLines = 0;
 ```
 
 其效果图如上图：就不再上传了
->
+> 简书位置[ianshu位置](http://www.jianshu.com/p/f3f478c1dba2)
